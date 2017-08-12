@@ -1,9 +1,5 @@
 # Big-Data-Notes
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 This notes is from my lecturer. I just convert it into md.
 
 ## Introduction
