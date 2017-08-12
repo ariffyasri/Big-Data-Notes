@@ -14,7 +14,7 @@ Below is the process involve during do Big Data Project
 
 ![Roles Big Data](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/roles-big-data.png)
 
-Non Functional Requirements
+### Non Functional Requirements
 
 - Performance
 - Scalability
@@ -24,5 +24,31 @@ Non Functional Requirements
 - Availability
 - Security
 
-### What is Big Data
+### Why Big Data?
+
+!['4Vs of Big Data'](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/4-Vs-of-big-data.jpg)
+
+### Why Relation Database Management System (RDBMS)?
+
+!['RDBMS'](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/rdbms.png)
+
+### Big Data Framework
+
+It is a solution to this problem:
+
+- How to acquire/export data?
+- How do you store large data?
+- How do you retrieve large data?
+- How do you process large data?
+- How do you sorting large data?
+- How do you analyze large data? Structured? Semi unstructured? Unstructured?
+
+Samples of Big Data Framework:
+
+- Hadoop (2007) (cover all category) ['Hadoop'](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/hadoop.png)
+- Spark (start in 2009) (under data processing)
+- Kafka (2011) (under content acquisition)
+- NoSQL
+
+
 
