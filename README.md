@@ -45,7 +45,7 @@ It is a solution to this problem:
 
 Samples of Big Data Framework:
 
-- Hadoop (2007) (cover all category) ['Hadoop'](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/hadoop.png)
+- Hadoop (2007) (cover all category) !['Hadoop'](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/hadoop.png)
 - Spark (start in 2009) (under data processing)
 - Kafka (2011) (under content acquisition)
 - NoSQL
