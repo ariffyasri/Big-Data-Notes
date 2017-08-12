@@ -6,9 +6,11 @@ This notes is from my lecturer. I just convert it into md.
 
 Below is the process involve during do Big Data Project
 
+### Flow in Big Data Project
+
 ![Big Data Flow](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/data-flow.png)
 
-Roles in Big Data Project
+### Roles in Big Data Project
 
 ![Roles Big Data](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/roles-big-data.png)
 
@@ -21,3 +23,6 @@ Non Functional Requirements
 - Maintainability
 - Availability
 - Security
+
+### What is Big Data
+
