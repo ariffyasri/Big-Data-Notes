@@ -50,6 +50,12 @@ Samples of Big Data Framework:
 - Kafka (2011) (under content acquisition) <img src="https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/apache-kafka.png" alt="Kafka" width="70" height="15"/>
 - NoSQL 
 
+Hadoop Eco System
+
+!['Hadoop Eco System Source:http://www.vikramtakkar.com/2016/12/3-hadoop-ecosystem-hadoop-tutorial.html'](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/hadoop-ecosystem.png)
+
+
+
 
 
 
