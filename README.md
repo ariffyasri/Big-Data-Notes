@@ -34,7 +34,7 @@ Below is the process involve during do Big Data Project
 
 ### Big Data Framework
 
-It is a solution to this problem:
+#### It is a solution to this problem:
 
 - How to acquire/export data?
 - How do you store large data?
@@ -43,18 +43,20 @@ It is a solution to this problem:
 - How do you sorting large data?
 - How do you analyze large data? Structured? Semi unstructured? Unstructured?
 
-Samples of Big Data Framework:
+#### Samples of Big Data Framework:
 
 - Hadoop (2007) (cover all category) <img src="https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/hadoop.png" alt="Hadoop" width="70" height="15"/>
 - Spark (start in 2009) (under data processing) <img src="https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/spark.png" alt="Spark" width="70" height="15"/>
 - Kafka (2011) (under content acquisition) <img src="https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/apache-kafka.png" alt="Kafka" width="70" height="15"/>
 - NoSQL 
 
-Hadoop Eco System
+#### Hadoop Eco System
 
 !['Hadoop Eco System Source:http://www.vikramtakkar.com/2016/12/3-hadoop-ecosystem-hadoop-tutorial.html'](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/hadoop-ecosystem.png)
 
+#### Type of storage
 
+!['Type of storage'](https://github.com/ariffyasri/Big-Data-Notes/blob/master/img/storage-type.png)
 
 
 
